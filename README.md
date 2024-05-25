@@ -1,9 +1,5 @@
-# AdamsDinnerBot
+# Adams Dinner Bot
 
-Run main.py
+Run main.py to start bot.
 
-Use commands in discord server
-
-!dinnertime to start the timer
-
-!dinnersover to stop the timer and report total time
+Use !help command in Discord server to see all available commands.
