@@ -50,7 +50,6 @@ async def dinnersover(ctx):
 @bot.command()
 async def adam(ctx):
     user_id = "483812319995101196"
-    #stat = user_id.status
     await ctx.send(f"<@{user_id}> is ...")
 
 bot.run(TOKEN)
